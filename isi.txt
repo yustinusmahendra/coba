@@ -1,5 +1,6 @@
 coba
-- tekjar
+- pemro
+- so
 - grafkom
 - rpl
 - imk
