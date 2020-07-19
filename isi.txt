@@ -3,3 +3,6 @@ coba
 - grafkom
 - rpl
 - imk
+- indo
+- inggris
+- pkn
