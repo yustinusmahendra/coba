@@ -10,8 +10,7 @@ coba isi
 - buat laporan
 - install app
 - buat ppt
-- responsi
-- presentasi
+
 - tr
 - tts
 - tas
